@@ -4,7 +4,7 @@ A full-stack developer 👩‍💻.
 
 - 🔨 Loves to build things
 - 🧠 Problem Solver
-- 🧙‍♂️  > Apply and Learn
+- 🧙‍♂ IF YOU DON'T UNDERSTAND SOMETHING. WRITE SOME CODE. SOLVE THE BUGS GENERATED.
 
 **Languages:**  
 
