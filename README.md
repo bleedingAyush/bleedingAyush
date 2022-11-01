@@ -1,6 +1,10 @@
 ### Hi there, I am Ayush Kumar 👋
 
-A full-stack developer building apps 👩‍💻. 
+A full-stack developer 👩‍💻. 
+
+- 🔨 Loves to build things
+- 🧠 Problem Solver
+- 🧙‍♂️  > Apply and Learn
 
 **Languages:**  
 
