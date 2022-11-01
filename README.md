@@ -2,7 +2,7 @@
 
 A full-stack developer 👩‍💻. 
 
-- 🔨 Loves to build things
+- 🔨 Love for building stuff
 - 🧠 Problem Solver
 - 🧙‍♂ IF YOU DON'T UNDERSTAND SOMETHING. START WRITING CODE.
 
