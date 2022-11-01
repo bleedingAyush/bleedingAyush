@@ -4,7 +4,7 @@ A full-stack developer 👩‍💻.
 
 - 🔨 Loves to build things
 - 🧠 Problem Solver
-- 🧙‍♂ IF YOU DON'T UNDERSTAND SOMETHING. WRITE SOME CODE. IF YOU SEE ANY BUGS. KILL IT.
+- 🧙‍♂ IF YOU DON'T UNDERSTAND SOMETHING. WRITE SOME CODE. IF YOU SEE ANY BUG. STAB IT.
 
 **Languages and frameworks:**  
 
